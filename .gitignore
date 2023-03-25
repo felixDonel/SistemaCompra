@@ -1,18 +1,289 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# # Ignore arquivos temporários do Visual Studio, crie resultados e
+# # arquivos gerados por complementos populares do Visual Studio.
+# #
+# # Obtenha o mais recente em https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Other files and folders
-.settings/
+# Arquivos específicos do usuário
+* .suo
+* .usuário
+* .userosscache
+* .sln.docstates
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Arquivos específicos do usuário (MonoDevelop/Xamarin Studio)
+* .userprefs
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Construir resultados
+[ Dd ] ebug /
+[ Dd ] ebugPublic /
+[ Rr ] liberar /
+x64 /
+x86 /
+bld /
+[ Bb ] em /
+[ Oo ] bj /
+[ Ll ] og /
+
+# Diretório de cache/opções do Visual Studio 2015
+.vs /
+# Descomente se você tiver tarefas que criam os arquivos estáticos do projeto em wwwroot
+# wwwroot/
+
+# Resultados do teste MSTest
+[ Tt ] est [ Rr ] resultado * /
+[ Bb ] uild [ Ll ] og. *
+
+# NUNIDADE
+* .VisualState.xml
+TestResult.xml
+
+# Construir resultados de um projeto ATL
+[ Dd ] ebugPS /
+[ Rr ] eleasePS /
+dlldata.c
+
+# .NET Núcleo
+projeto.lock.json
+project.fragment.lock.json
+artefatos /
+** / Propriedades / launchSettings.json
+
+# Código VS
+.vscode /
+
+* _i.c
+* _p.c
+* _i.h
+* .ilk
+* .meta
+* .obj
+* .pch
+* .pdb
+* .pgc
+* .pgd
+* .rsp
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* .log
+* .vspscc
+* .vssscc
+.construções
+* .pidb
+* .svclog
+* .scc
+
+# Arquivos de teste Chutzpah
+_Chutzpah *
+
+# Arquivos de cache do Visual C++
+ipch /
+* .aps
+* .ncb
+* .opendb
+* .opensdf
+* .sdf
+* .cachefile
+* .VC.db
+* .VC.VC.opendb
+
+# Criador de perfil do Visual Studio
+* .psess
+* .vsp
+* .vspx
+* .sap
+
+# Espaço de trabalho local do TFS 2012
+$ tf /
+
+# Kit de ferramentas de automação de orientação
+* .gpState
+
+# ReSharper é um suplemento de codificação .NET
+_ReSharper * /
+* . [ Rr ] e [ Ss ] harpista
+* .DotSettings.user
+
+# JustCode é um suplemento de codificação .NET
+.JustCode
+
+# TeamCity é um suplemento de compilação
+_TeamCity *
+
+# DotCover é uma ferramenta de cobertura de código
+* .dotCover
+
+# Resultados da cobertura de código do Visual Studio
+* .cobertura
+* .coveragexml
+
+# N Crunch
+_NCrunch_ *
+. * crise * .local.xml
+nCrunchTemp_ *
+
+#MightyMoose _
+* .mm. *
+AutoTest.Net /
+
+# Web workbench (sass)
+.sass-cache /
+
+# Pasta de saída Installshield
+[ Ee ] xpress /
+
+# DocProject é um add-in gerador de documentação
+DocProject / buildhelp /
+DocProject / Ajuda / * .HxT
+DocProject / Ajuda / * .HxC
+DocProject / Ajuda / * .hhc
+DocProject / Ajuda / * .hhk
+DocProject / Ajuda / * .hhp
+DocProject / Ajuda / Html2
+DocProject / Ajuda / html
+
+# Diretório Click-Once
+publicar /
+
+# Publicar saída da Web
+* . [ Pp ] ublish.xml
+* .azurePubxml
+# TODO: Comente a próxima linha se você quiser verificar suas configurações de implantação da web
+# mas as strings de conexão do banco de dados (com possíveis senhas) serão descriptografadas
+* .pubxml
+* .publishproj
+
+# Configurações de publicação do Microsoft Azure Web App. Comente a próxima linha se quiser
+# verificando as configurações de publicação do aplicativo Web do Azure, mas as informações confidenciais contidas
+# nestes scripts serão descriptografados
+PublishScripts /
+
+# Pacotes NuGet
+* .nupkg
+# A pasta de pacotes pode ser ignorada por causa da restauração do pacote
+** / pacotes / *
+# exceto build/, que é usado como um destino do MSBuild.
+! ** / pacotes / build /
+# Descomente se necessário, mas geralmente ele será regenerado quando necessário
+# !**/packages/repositories.config
+# Os arquivos project.json do NuGet v3 produzem mais arquivos ignoráveis
+* .nuget.props
+* .nuget.targets
+
+# Saída de compilação do Microsoft Azure
+csx /
+* .build.csdef
+
+# Emulador do Microsoft Azure
+ecf /
+rcf /
+
+# Diretórios e arquivos de pacotes de aplicativos da Windows Store
+AppPackages /
+Pacote de Artefatos /
+Package.StoreAssociation.xml
+_pkginfo.txt
+
+# Arquivos de cache do Visual Studio
+# arquivos terminados em .cache podem ser ignorados
+* . [ Cc ] dor
+# mas rastreie os diretórios que terminam em .cache
+! * . [ Cc ] dor /
+
+# Outros
+ClientBin /
+~$ *
+* ~
+* .dbmdl
+* .dbproj.schemaview
+* .jfm
+* .pfx
+* .publishsettings
+orleans.codegen.cs
+
+# Como existem vários fluxos de trabalho, remova o comentário da próxima linha para ignorar bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+# bower_components/
+
+# Projetos RIA/Silverlight
+Código_gerado /
+
+# Arquivos de backup e relatório da conversão de um arquivo de projeto antigo
+# para uma versão mais recente do Visual Studio. Arquivos de backup não são necessários,
+# porque temos git ;-)
+_UpgradeReport_Files /
+Backup * /
+UpgradeLog * .XML
+UpgradeLog * .htm
+
+# arquivos SQL Server
+* .mdf
+* .ldf
+
+# Projetos de Business Intelligence
+* .rdl.data
+* .bim.layout
+* .bim_ * .configurações
+
+#Microsoft Falsificações
+FalsificaçõesAssemblies /
+
+# Arquivo de configuração do plugin GhostDoc
+* .GhostDoc.xml
+
+# Ferramentas Node.js para Visual Studio
+.ntvs_analysis.dat
+node_modules /
+
+# Arquivos de declaração TypeScript v1
+digitações /
+
+# Registro de compilação do Visual Studio 6
+* .plg
+
+# Arquivo de opções do espaço de trabalho do Visual Studio 6
+* .opt
+
+# Arquivo de espaço de trabalho gerado automaticamente pelo Visual Studio 6 (contém quais arquivos foram abertos, etc.)
+* .vbw
+
+# Saída de compilação do Visual Studio LightSwitch
+** / * .HTMLClient / GeneratedArtifacts
+** / * .DesktopClient / GeneratedArtifacts
+** / * .DesktopClient / ModelManifest.xml
+** / * .Server / GeneratedArtifacts
+** / * .Server / ModelManifest.xml
+_Pvt_Extensions
+
+# Gerenciador de dependências de pacotes
+.paket / paket.exe
+arquivos de pacote /
+
+#FAKE - F# Make
+.falso /
+
+# Piloto JetBrains
+.ideia /
+* .sln.iml
+
+# CodeRush
+.cr /
+
+# Ferramentas Python para Visual Studio (PTVS)
+__pycache__ /
+* .pyc
+
+#Bolo - Descomente se estiver usando
+# ferramentas/**
+# !tools/packages.config
+
+# Arquivo de configuração JustMock do Telerik
+* .jmconfig
+
+# Saída de compilação do BizTalk
+* .btp.cs
+* .btm.cs
+* .odx.cs
+* .xsd.cs
