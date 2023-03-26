@@ -22,8 +22,9 @@ namespace SistemaCompra.Application.SolicitacaoCompra.Command.RegistrarCompra
         public Task<bool> Handle(RegistrarCompraCommand request, CancellationToken cancellationToken)
         {
             var solicitacao = new SolicitacaoAgg.SolicitacaoCompra(request.usuarioSolicitante, request.nomeFornecedor);
-            request.itens.ForEach(item => item.Produto = _produtoRepository.Obter(item.Produto.Id));
-            solicitacao.RegistrarCompra(request.itens);
+            var itens = request.itens.Select(item => new Item(_produtoRepository.Obter(new Guid(item.ProdutoId)), item.Qtde));
+
+            solicitacao.RegistrarCompra(itens);
             _solicitacaoRepository.RegistrarCompra(solicitacao);
 
             Commit();
