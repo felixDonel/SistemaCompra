@@ -24,3 +24,18 @@ C:\Projetos\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.csproj.CopyComplete
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
 C:\Projetos\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.deps.json
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.AssemblyInfo.cs
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.csproj.CopyComplete
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.Infra.Data\obj\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb

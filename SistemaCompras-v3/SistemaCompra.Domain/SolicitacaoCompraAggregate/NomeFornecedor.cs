@@ -1,11 +1,12 @@
 ﻿using SistemaCompra.Domain.Core;
+using SistemaCompra.Domain.Core.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace SistemaCompra.Domain.SolicitacaoCompraAggregate
 {
-    public class NomeFornecedor
+    public class NomeFornecedor : ValueObject<NomeFornecedor>
     {
         public string Nome { get; }
 
@@ -17,6 +18,11 @@ namespace SistemaCompra.Domain.SolicitacaoCompraAggregate
             if (nome.Length < 10) throw new BusinessRuleException("Nome de fornecedor deve ter pelo menos 10 caracteres.");
 
             Nome = nome;
+        }
+
+        protected override IEnumerable<object> GetAttributesToIncludeInEqualityCheck()
+        {
+            return new List<object>() { Nome };
         }
     }
 }

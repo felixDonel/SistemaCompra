@@ -14,3 +14,13 @@ C:\Projetos\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.
 C:\Projetos\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.dll
 C:\Projetos\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.pdb
 C:\Projetos\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\bin\Debug\netstandard2.0\SistemaCompra.CrossCutting.deps.json
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\bin\Debug\netstandard2.0\SistemaCompra.CrossCutting.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\bin\Debug\netstandard2.0\SistemaCompra.CrossCutting.pdb
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.AssemblyInfo.cs
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.dll
+C:\Users\Feeco\OneDrive\Área de Trabalho\SistemaCompraPraVaga\SistemaCompra\SistemaCompras-v3\SistemaCompra.CrossCutting\obj\Debug\netstandard2.0\SistemaCompra.CrossCutting.pdb

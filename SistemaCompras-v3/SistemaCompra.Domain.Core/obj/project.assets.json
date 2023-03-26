@@ -203,36 +203,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rasth\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Feeco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Prova-Sisprev\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Feeco\\OneDrive\\Área de Trabalho\\SistemaCompraPraVaga\\SistemaCompra\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
       "projectName": "SistemaCompra.Domain.Core",
-      "projectPath": "C:\\Projetos\\Prova-Sisprev\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
-      "packagesPath": "C:\\Users\\rasth\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Prova-Sisprev\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\obj\\",
+      "projectPath": "C:\\Users\\Feeco\\OneDrive\\Área de Trabalho\\SistemaCompraPraVaga\\SistemaCompra\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\Feeco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Feeco\\OneDrive\\Área de Trabalho\\SistemaCompraPraVaga\\SistemaCompra\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rasth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Feeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://proget.icatuseguros.com.br/nuget/Icatu": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -244,6 +239,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "MediatR": {
             "target": "Package",
@@ -262,11 +258,12 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

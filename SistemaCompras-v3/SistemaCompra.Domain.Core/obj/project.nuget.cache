@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UG2LSMYCZbsU2YPNwar8IPoFvI4bZodOPr0BAKSBjbEG6lHesJReeeLhHn2C9rzgCB22QAT5HMEelorD7vSnbQ==",
+  "dgSpecHash": "FRfr01FIsJP9mUBK0zxwxHiX6s3qw2vAFRni8nu/JHGIh4bSaeB3SFZGA/jzNzLULjYitOKsRLeHzUMAoL5LAw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Prova-Sisprev\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\Feeco\\OneDrive\\Área de Trabalho\\SistemaCompraPraVaga\\SistemaCompra\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rasth\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
-    "C:\\Users\\rasth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\rasth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Feeco\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\Feeco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Feeco\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
